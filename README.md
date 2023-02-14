@@ -6,3 +6,5 @@ Berisi program toko sederhana.
 
 - Ada time delay, sehingga tidak terkesan terlalu cepat.
 - Ada sedikit animasi.
+- Semua _requirements_ yang wajib sudah ada.
+- Layout diperhatikan.
